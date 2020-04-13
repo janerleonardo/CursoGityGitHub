@@ -1,2 +1,2 @@
-# CursoGityGitHub
-Curso de Git y GitHub de platzi no tiene mucha importancia
+# hyperblog
+Un blog increíble para el curso de Git y Github de Platzi
